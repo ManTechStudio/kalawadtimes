@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252455413621",
+    "project_id": "kalwadtimes-6d37d",
+    "storage_bucket": "kalwadtimes-6d37d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252455413621:android:925ce6e66caa679216153c",
+        "android_client_info": {
+          "package_name": "com.example.kalawadtimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252455413621-oee7g297srs6nc5umbgcd8ddahj6pjch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhbd1Y0Hk8Q7uY-lx7Cur72Q9oDg11yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252455413621-oee7g297srs6nc5umbgcd8ddahj6pjch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
